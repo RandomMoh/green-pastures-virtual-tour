@@ -1,0 +1,16 @@
+{
+  "name": "green-pastures-virtual-tour",
+  "version": "1.0.0",
+  "description": "Green Pastures 360° Virtual Tour",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "virtual-tour",
+    "pano2vr",
+    "360",
+    "panorama"
+  ],
+  "author": "",
+  "license": "ISC"
+}
